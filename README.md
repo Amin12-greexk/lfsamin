@@ -1,2 +1,2 @@
 # lfsamin
-Iseng project
+4 years project target, linux from scratch
